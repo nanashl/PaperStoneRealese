@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Crush.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Game.unity
+    guid: b6a08e8fc2b4f084b9068c6b2385964b
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 53d6e952b0638764cb253e3f8a5eb25a
+  - enabled: 1
+    path: Assets/Scenes/Paper.unity
+    guid: 00429df863cb8db4fb3035b07120064f
+  - enabled: 1
+    path: Assets/Scenes/BlackJack.unity
+    guid: 0d1dc750cd2e4f14db188222c97b92d3
+  m_configObjects: {}
